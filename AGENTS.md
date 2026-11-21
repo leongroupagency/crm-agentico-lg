@@ -10,8 +10,9 @@ This block is written and re-added by `next dev` — verify at `node_modules/nex
 
 ## Este repo
 
-Es la versión workshop del CRM agéntico de León Group: cada alumno tiene su propia
-copia y la instala en su propio Supabase y su propio Vercel. Quien te habla casi
+Es la versión educativa del CRM agéntico de León Group (material de aprendizaje,
+no un producto comercial): cada alumno tiene su propia copia y la instala en su
+propio Supabase y su propio Vercel. Quien te habla casi
 nunca es programador. Hablale en español, simple y sin jerga.
 
 ## Si te piden instalar el CRM

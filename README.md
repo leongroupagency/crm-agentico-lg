@@ -1,8 +1,12 @@
-# León CRM — versión workshop
+# León CRM — versión educativa
+
+> **Uso educativo.** Este CRM es material de aprendizaje de León Group: sirve para aprender a armar, configurar y hacer crecer un CRM con agentes de IA. No es un producto comercial ni un servicio. Podés instalarlo y usarlo en tu propio negocio bajo tu responsabilidad, según la [licencia](LICENSE): no se puede vender, redistribuir ni instalárselo a terceros.
+
+> **¿Querés adaptarlo a tu negocio y hacerlo crecer?** En el [Curso CRM Agéntico](https://leongroup.agency/curso-crm-agentico) aprendés, paso a paso y con Claude Code, a adaptarlo a tu forma de trabajar y a sumarle envíos masivos por WhatsApp, automatizaciones, recordatorios de citas y más.
 
 CRM agéntico multicanal (WhatsApp, Instagram y Messenger): los agentes de IA trabajan adentro del CRM, no al costado. Está construido sobre Next.js 16 y Supabase. Sirve para cualquier rubro: el embudo, los agentes y los campos del lead los define cada workspace.
 
-Es una **versión reducida** del CRM de León Group ([leongroupadmin/CRM](https://github.com/leongroupadmin/CRM)), armada para el workshop. Partió de ese repo y vive por separado: lo que cambie acá no toca al original.
+Es una **versión reducida** del CRM de León Group, armada para aprender. Vive por separado del CRM original: lo que cambie acá no lo toca.
 
 | Queda | Se sacó |
 |---|---|
@@ -789,4 +793,4 @@ npm run sql:instalar  # rearma supabase/instalar.sql con las migraciones
 
 ## Licencia
 
-El código es de **León Group** y se usa bajo la [licencia de uso](LICENSE) de este repo. Cada persona puede instalarlo y adaptarlo para su propio negocio, pero no venderlo, distribuirlo, instalárselo a terceros ni presentarlo como propio. Las copias tienen que ser privadas.
+El código es de **León Group**, es material educativo y se usa bajo la [licencia de uso](LICENSE) de este repo. Cada persona puede instalarlo y adaptarlo para su propio negocio, pero no venderlo, distribuirlo, instalárselo a terceros ni presentarlo como propio. Las copias tienen que ser privadas.
